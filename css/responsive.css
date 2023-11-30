@@ -28,12 +28,23 @@
     }
     
     h3{
-        font-size: 2.5rem;
+        font-size: 1.5rem;
     }
 
-    .text{
+    .lessons .col img{
+        height: 300px;
+    }
+
+    p.text{
         font-size: 25px;
-        margin-bottom: 20px
+        margin-bottom: 100px;
     }
     
+    .steps .col{
+        width: 100%;
+    }
+
+    .steps .col img{
+        height: 300px;
+    }
 }
