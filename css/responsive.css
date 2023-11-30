@@ -46,11 +46,25 @@
         width: 100%;
     }
 
+    section.steps{
+        margin: 0;
+    }
+
+    section.why-us{
+        background-color: black;
+        margin-bottom: 0;
+    }
        
 }
 
-@media screen and (max-width:1160px){
+@media screen and (min-width: 768px){
     body{
         overflow-x: hidden;
+    }
+
+    .container{
+        max-width:1140px;
+        margin: 0 auto;
+
     }
 }
