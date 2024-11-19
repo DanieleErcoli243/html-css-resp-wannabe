@@ -1,3 +1,7 @@
+Responsive wannabe
+For this exercise we were given the code for the pages and we had to make it responsive by using media queries for the first time. 
+Actually everything went fine as far as we approached it desktop first. I always find easier to hide elements while reducing the width of the viewport instead of making them appear when I widen it.
+
 Esercizio di oggi: Responsive Wannabe
 nome repo: html-css-resp-wannabe
 Descrizione:
